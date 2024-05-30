@@ -1,0 +1,2 @@
+TOKEN=6638162642:AAGNyHM7T3mzWi*************
+DB_LITE=sqlite+aiosqlite:///my_base.db
